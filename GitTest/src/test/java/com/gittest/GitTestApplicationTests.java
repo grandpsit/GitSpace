@@ -8,6 +8,7 @@ class GitTestApplicationTests {
 
     @Test
     void contextLoads() {
+        System.out.println("life is a fucking movie,人生如戏我，他跟我讲，屌你老母");
     }
 
 }
